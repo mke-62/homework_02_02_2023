@@ -1,6 +1,19 @@
 .App {
 
 }
+.card {
+width: 100px;
+  height: 100px;
+   display: block;
+
+}
+.cards{
+  display: flex;
+  gap: 1em;
+}
+.zd{
+  border: 1px solid red;
+}
 
 .App-logo {
   height: 40vmin;
